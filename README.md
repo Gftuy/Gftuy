@@ -1,5 +1,5 @@
 ### ***<div align="center">Just Started 👨‍💻 working  🚀😓</div>***  
-- ⚡ Fun fact: ...  
+                                            - ⚡ Fun fact: ...  
 
 <img src="https://usagif.com/wp-content/uploads/gif/anime-sleep-80.gif" align="left" style="width: 90%" />  
   
