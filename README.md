@@ -1,7 +1,7 @@
 ### ***<div align="center">Just Started 👨‍💻 working  🚀😓</div>***  
                           
 
-<img src="https://usagif.com/wp-content/uploads/gif/anime-sleep-80.gif" align="left" style="width: 90%" />  
+<img src="https://vgif.ru/gifs/145/vgif-ru-19202.gif" align="left" style="width: 90%" />  
   
 
 <br/>  
