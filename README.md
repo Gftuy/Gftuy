@@ -1,7 +1,7 @@
 ### ***<div align="center">Just Started 👨‍💻 working  🚀😓</div>***  
                           
 
-<img src="https://moscow-airports.com/wp-content/uploads/2020/01/kachki.jpg" align="left" style="width: 60%" />  
+<img src="https://i.pinimg.com/originals/66/15/56/661556f06c07b00b3d1e8cc62c28736b.gif" align="left" style="width: 90%" />  
   
 
 <br/>  
