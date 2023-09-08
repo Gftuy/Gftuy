@@ -41,32 +41,26 @@
 <br/> 
 <br/>
 <br/> 
-name: Using classic charts
+name: Featured star list
 uses: lowlighter/metrics@latest
 with:
-  filename: metrics.plugin.stargazers.svg
-  token: ${{ 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 }}
+  filename: metrics.plugin.starlists.svg
+  token: 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
   base: ""
-  plugin_stargazers: yes
-name: Using graph charts
+  plugin_starlists: yes
+  plugin_starlists_limit_repositories: 2
+  plugin_starlists_only: TC39
+name: Featured star list languages
 uses: lowlighter/metrics@latest
 with:
-  filename: metrics.plugin.stargazers.graph.svg
-  token: ${{ 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}}
+  filename: metrics.plugin.starlists.languages.svg
+  token: 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
   base: ""
-  plugin_stargazers: yes
-  plugin_stargazers_charts_type: graph
-name: With worldmap
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.stargazers.worldmap.svg
-  token: ${{ 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 }}
-  base: ""
-  plugin_stargazers: yes
-  plugin_stargazers_charts: no
-  plugin_stargazers_worldmap: yes
-  plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-  plugin_stargazers_worldmap_sample: 200
+  plugin_starlists: yes
+  plugin_starlists_languages: yes
+  plugin_starlists_limit_languages: 8
+  plugin_starlists_limit_repositories: 0
+  plugin_starlists_only: Awesome
 <br/> 
 <br/>  
 
