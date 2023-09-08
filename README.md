@@ -44,9 +44,9 @@ github_pat_11BCCFBJI0xCPeE1GmKMkv_g3jaQbysOUGCN88ol62tAzw6lLUOLKLrSYhjMCXoM67676
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gftuy&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gftuy&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gftuy&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gftuy&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gftuy&theme=solarized_dark)
+
 
 ## Recent Blog Posts 
 <img src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAvzM7ikI8EXtx5KShBdIQIE" align="left" height="370" width="" />  
