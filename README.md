@@ -34,7 +34,6 @@
 
 <br/>  
 
-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
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=radical)
 
