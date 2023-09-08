@@ -45,14 +45,14 @@ name: Using classic charts
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.stargazers.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  token: ${{ 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 }}
   base: ""
   plugin_stargazers: yes
 name: Using graph charts
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.stargazers.graph.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  token: ${{ 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}}
   base: ""
   plugin_stargazers: yes
   plugin_stargazers_charts_type: graph
@@ -60,7 +60,7 @@ name: With worldmap
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.stargazers.worldmap.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  token: ${{ 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 }}
   base: ""
   plugin_stargazers: yes
   plugin_stargazers_charts: no
