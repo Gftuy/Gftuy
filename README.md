@@ -41,8 +41,9 @@
 <br/> 
 <br/>
 <br/> 
+<!--START_SECTION:Gftuy-->
+<!--END_SECTION:Gftuy-->
 <br/> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gftue)](https://github-profile-trophy.vercel.app/?username=Gftuy&theme=dracula)
 <br/>  
 
 ## Recent Blog Posts 
