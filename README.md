@@ -36,8 +36,7 @@
 
 
 ## Github Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gftuy)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gftuy)](https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=dark)
 <br/> 
 <br/> 
 <br/>
