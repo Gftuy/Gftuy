@@ -36,12 +36,12 @@
 
 
 ## Github Stats  
-<img srcset="https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />  
 <br/> 
 <br/> 
-<br/> 
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gftuy&theme=dracula" />
 <br/> 
 <br/> 
 <br/>  
