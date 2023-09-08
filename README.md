@@ -37,12 +37,12 @@
 
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gftue)](https://github-profile-trophy.vercel.app/?username=Gftuy&theme=dracula)
 <br/> 
 <br/> 
 <br/>
 <br/> 
 <br/> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gftue)](https://github-profile-trophy.vercel.app/?username=Gftuy&theme=dracula)
 <br/>  
 
 ## Recent Blog Posts 
