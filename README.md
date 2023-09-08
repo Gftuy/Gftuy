@@ -36,12 +36,11 @@
 
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gftuy&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gftuy&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gftuy&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gftuy&theme=radical) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gftuy&theme=radical)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gftuy&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gftuy&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gftuytheme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gftuy&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gftuy&theme=radical&utcOffset=8)
 
 
 ## Recent Blog Posts 
