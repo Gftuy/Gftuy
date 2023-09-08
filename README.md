@@ -34,35 +34,19 @@
 
 <br/>  
 
-
+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
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=radical)
-<br/> 
-<br/> 
-<br/>
-<br/> 
-name: Featured star list
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.starlists.svg
-  token: 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
-  base: ""
-  plugin_starlists: yes
-  plugin_starlists_limit_repositories: 2
-  plugin_starlists_only: TC39
-name: Featured star list languages
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.starlists.languages.svg
-  token: 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
-  base: ""
-  plugin_starlists: yes
-  plugin_starlists_languages: yes
-  plugin_starlists_limit_languages: 8
-  plugin_starlists_limit_repositories: 0
-  plugin_starlists_only: Awesome
-<br/> 
-<br/>  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gftuy&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gftuy&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gftuy&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gftuy&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gftuy&theme=solarized_dark)
 
 ## Recent Blog Posts 
 <img src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAvzM7ikI8EXtx5KShBdIQIE" align="left" height="370" width="" />  
