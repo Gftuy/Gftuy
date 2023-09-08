@@ -1,10 +1,3 @@
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-
 ### ***<div align="center">Just Started 👨‍💻 working  🚀😓</div>***  
                           
 
@@ -48,8 +41,32 @@
 <br/> 
 <br/>
 <br/> 
-<!--START_SECTION:Gftuy-->
-<!--END_SECTION:Gftuy-->
+name: Using classic charts
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.stargazers.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_stargazers: yes
+name: Using graph charts
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.stargazers.graph.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_stargazers: yes
+  plugin_stargazers_charts_type: graph
+name: With worldmap
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.stargazers.worldmap.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_stargazers: yes
+  plugin_stargazers_charts: no
+  plugin_stargazers_worldmap: yes
+  plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+  plugin_stargazers_worldmap_sample: 200
 <br/> 
 <br/>  
 
