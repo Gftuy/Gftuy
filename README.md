@@ -41,8 +41,8 @@
 <br/> 
 <br/> 
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Gftuy&theme=dracula" />
 <br/> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gftue)](https://github-profile-trophy.vercel.app/?username=Gftuy&theme=dracula)
 <br/> 
 <br/>  
 
