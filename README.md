@@ -36,8 +36,8 @@
 
 
 ## Github Stats  
-srcset="https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<img srcset="https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Gftuy&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <br/> 
 <br/> 
